@@ -3,6 +3,6 @@
 </h2>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Estudante+de+Programa%C3%A7%C3%A3o;Front-end+Developer)](https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Estudante+de+Programa%C3%A7%C3%A3o;Front-end+Developer)](https://git.io/typing-svg)">
  </p>
 
