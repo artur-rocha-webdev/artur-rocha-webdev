@@ -1,5 +1,5 @@
 <h2 align="center">
-  💙 Seja muito bem vindo ao meu perfil! 💙
+   Seja muito bem vindo ao meu perfil! 
 </h2>
 
 <p align="center"> 
