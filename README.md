@@ -15,9 +15,6 @@
   
 <h4>👾-Olá! Me chamo Artur, muito prazer.</h4>
 
-<h4>👨‍💻Sou um Desenvolvedor Front-End!</h4>
-<h4>🤖Sou programador de uma equipe de robótica! @theone_robot🖤 </h4>
-<h4>🏐Apaixonado por voleibol</h4>
 
 
 <h4> Estou aprendendo </h4>
